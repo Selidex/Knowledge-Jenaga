@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1bb6b596ce656045a4967006cefd56e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jengaPrefab: {fileID: 2298747707694781358, guid: b61b2e301697900498716be112c0ddbc,
+      type: 3}
+  - wood: {fileID: 2100000, guid: e9f5fd10d63f1be43b2afe5854ee4208, type: 2}
+  - glass: {fileID: 2100000, guid: 7529c42fd5a887944b5ca457aa3429dc, type: 2}
+  - stone: {fileID: 2100000, guid: 0b6c103b2a1d89941b5f16b562b36b7f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
